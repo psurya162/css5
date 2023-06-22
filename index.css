@@ -169,7 +169,7 @@ button{
     .Rightcontaner{
         grid-template-columns: 200px;
         grid-template-rows: 200px 200px 200px 200px;
-        height: 200px;
+        height: 1049px;
         gap: 60px;
     }
     .Leftcontaner{
@@ -197,6 +197,10 @@ button{
         font-size: 59px;
         color: white;
     }
+    .container{
+        overflow: hidden;
+    }
+    
     
   
 }
